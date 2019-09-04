@@ -1,5 +1,7 @@
 # Listex
 
+[![CircleCI](https://circleci.com/gh/elvio/listex.svg?style=svg)](https://circleci.com/gh/elvio/listex)
+
 That's a simple sample code to translate JSON-like lists into HTML `<ol>` items.
 
 ## Installation
